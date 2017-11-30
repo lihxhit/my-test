@@ -4,3 +4,4 @@ function a(){
     console.log(export1);
 }
 a();
+
