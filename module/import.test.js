@@ -1,7 +1,3 @@
-const export1 = require('./export');
-function a(){
-    console.log('!!');
-    console.log(export1);
-}
-a();
+import {a1} from './es6.export';
+a1();
 
