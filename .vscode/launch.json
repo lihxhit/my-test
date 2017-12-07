@@ -7,14 +7,8 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "dist",
-            "program": "${workspaceFolder}/dist\\import.test.js"
-        },
-        {
-            "type": "node",
-            "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/module\\import.test.js"
+            "program": "${workspaceFolder}/module\\require.test.js"
         }
     ]
 }

@@ -1,3 +1,4 @@
-import {a1} from './es6.export';
-a1();
+import * as a from './es6.export';
+console.log(this);
+a.a1('arguements');
 
